@@ -1,0 +1,18 @@
+/* <div class="arrow-up"></div>
+<div class="arrow-down"></div> */
+
+.arrow-up {
+  width: 0; 
+  height: 0; 
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-bottom: 12px solid #00F9FF;
+}
+
+.arrow-down {
+  width: 0; 
+  height: 0; 
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #CB1450;
+}
